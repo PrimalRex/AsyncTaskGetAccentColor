@@ -1,7 +1,7 @@
 # AsyncTaskGetAccentColor
 
-UAsyncTaskGetAccentColor is an asynchronous function for extracting accent colors from a UTexture2DDynamic.
-It uses parallel color quantization, image downsampling, and heuristic filtering to efficiently determine a vibrant but non pallid color from a given image.
+`UAsyncTaskGetAccentColor` is an asynchronous function for extracting accent colors from a `UTexture2DDynamic`.
+It uses parallel color quantization, image downsampling, and heuristic filtering to efficiently determine a vibrant but non-pallid color from a given image.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/f44c3fec-b847-4593-bc46-212449c8f7a7" alt="Async Accent Example" width="600">
